@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wpisyeu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in PHP
+- 🌱 I’m currently learning Vue.js
+- 💞️ I’m looking to collaborate on cool things
 - 📫 How to reach me https://wpisy.eu
 
 <!---
